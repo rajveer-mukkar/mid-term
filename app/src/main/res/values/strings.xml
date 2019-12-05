@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">rajveerkaur_c0758564_MT</string>
+    <string-array name="Cars">
+        <item>PLease Choose a Car</item>
+        <item>BMW</item>
+        <item>Ferrari</item>
+        <item>Honda</item>
+        <item>Wolkswagen</item>
+        <item>Maruti</item>
+        <item>Hummer</item>
+        <item>Bentley</item>
+    </string-array>
+</resources>
